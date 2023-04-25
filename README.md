@@ -1,7 +1,6 @@
 # Final-Project
 
 ## Changes Made
-
 * Changed the name
 * Fixed the reservation button so it sends the user to the reservation page.
 * Updated the menu with names and descriptions for items
